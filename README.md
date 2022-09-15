@@ -6,3 +6,7 @@
 <h3> Preview Code </h3>
 
 ![Captura de tela 2022-09-15 161107](https://user-images.githubusercontent.com/94225931/190489401-cd640cab-f594-43ec-a6a8-e29ec1de883a.jpg)
+
+<h3> Cluster Overview to use the topics </h3>
+
+![kluste_pic](https://user-images.githubusercontent.com/94225931/190489703-b85b4d9e-89f3-4ed6-85e1-0e28b838f194.jpg)
